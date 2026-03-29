@@ -197,13 +197,6 @@ pip install -r requirements.txt
 
 ---
 
-### Run locally
-
-* Frontend: http://localhost:3000
-* Backend: (configure as needed)
-
----
-
 ## Deployment
 
 * Frontend deployed on **Vercel**
