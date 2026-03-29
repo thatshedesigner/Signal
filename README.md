@@ -1,6 +1,6 @@
 Signal
 
-### AI-Native News Platform — Cut the Noise. Find the Truth.
+### AI-Native News Platform - Cut the Noise. Find the Truth.
 
 ---
 
@@ -245,3 +245,7 @@ Signal is built as part of a hackathon project focused on reimagining the future
 ## License
 
 MIT
+
+## APP LINK
+
+https://signal-two-eta.vercel.app/
